@@ -1,4 +1,4 @@
-<style>
+
         /* Cores fixas para acessibilidade */
         :root {
             --gold: #d4af37;
@@ -479,4 +479,3 @@
                 grid-template-columns: repeat(2, 1fr);
             }
         }
-    </style>
