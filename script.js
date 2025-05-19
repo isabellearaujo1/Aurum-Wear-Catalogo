@@ -1,4 +1,3 @@
-<script>
         document.addEventListener('DOMContentLoaded', function() {
             // Função para controlar os carrosséis
             const carousels = document.querySelectorAll('.carousel');
@@ -77,4 +76,3 @@
                 });
             });
         });
-    </script>
